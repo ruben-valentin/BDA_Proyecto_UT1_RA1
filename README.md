@@ -36,3 +36,5 @@ Idempotencia por `batch_id` (batch) o `event_id` (stream).
 Deduplicación “último gana” por `_ingest_ts`.  
 Reporte Markdown: `project/output/reporte.md` → `site/content/reportes/reporte-UT1.md`.
 # BDA_Proyecto_UT1_RA1
+
+

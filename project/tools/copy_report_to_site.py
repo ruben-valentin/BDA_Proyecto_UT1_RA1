@@ -4,3 +4,4 @@ dst = Path(__file__).resolve().parents[2] / "site" / "content" / "reportes" / "r
 dst.parent.mkdir(parents=True, exist_ok=True)
 dst.write_text(src.read_text(encoding="utf-8"), encoding="utf-8")
 print("Copiado:", dst)
+
